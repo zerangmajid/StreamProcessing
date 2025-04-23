@@ -16,7 +16,7 @@ This document describes the step-by-step process to ingest, process, and store d
 
 **Flink (JobManager & TaskManager):**
 
-![Kafka + Flink + PostgreSQL Architecture](flink.png)
+![Kafka + Flink + PostgreSQL Architecture](images/flink.png)
 
    - Processes streaming data in real-time.
    - Flink is the core data processing engine in this architecture. It is responsible for ingesting, processing, and analyzing the real-time streaming data from Kafka. The system works in a distributed manner with two main components:
