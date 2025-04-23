@@ -8,7 +8,7 @@
 This document describes the step-by-step process to ingest, process, and store data using **Kafka, Apache Flink, and PostgreSQL**. We will monitor the **processing latency** between Kafka ingestion and PostgreSQL storage.
 
 ## 🔍 **The architecture consists of the following key components:**
-![Kafka + Flink + PostgreSQL Architecture](artitectu2.png)
+![Kafka + Flink + PostgreSQL Architecture](images/artitectu2.png)
 
 
 **Kafka (Broker & Zookeeper)**:
